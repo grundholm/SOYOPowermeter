@@ -1,7 +1,0 @@
-C:\Users\Claus\source\repos\SOYOPowermeter\SOYOPowermeter\bin\Debug\SOYOPowermeter.exe.config
-C:\Users\Claus\source\repos\SOYOPowermeter\SOYOPowermeter\bin\Debug\SOYOPowermeter.exe
-C:\Users\Claus\source\repos\SOYOPowermeter\SOYOPowermeter\bin\Debug\SOYOPowermeter.pdb
-C:\Users\Claus\source\repos\SOYOPowermeter\SOYOPowermeter\obj\Debug\SOYOPowermeter.csprojAssemblyReference.cache
-C:\Users\Claus\source\repos\SOYOPowermeter\SOYOPowermeter\obj\Debug\SOYOPowermeter.csproj.CoreCompileInputs.cache
-C:\Users\Claus\source\repos\SOYOPowermeter\SOYOPowermeter\obj\Debug\SOYOPowermeter.exe
-C:\Users\Claus\source\repos\SOYOPowermeter\SOYOPowermeter\obj\Debug\SOYOPowermeter.pdb
